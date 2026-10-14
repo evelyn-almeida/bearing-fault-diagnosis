@@ -1,0 +1,25 @@
+model,snr_label,balanced_accuracy
+Time-domain statistics,clean,0.9507
+Time-domain statistics,20 dB,0.9479
+Time-domain statistics,10 dB,0.8534
+Time-domain statistics,5 dB,0.7519
+Time-domain statistics,0 dB,0.4439
+Time-domain statistics,-5 dB,0.4689
+Envelope fault frequencies (physics),clean,0.7684
+Envelope fault frequencies (physics),20 dB,0.7726
+Envelope fault frequencies (physics),10 dB,0.7812
+Envelope fault frequencies (physics),5 dB,0.7220
+Envelope fault frequencies (physics),0 dB,0.5431
+Envelope fault frequencies (physics),-5 dB,0.2979
+All hand-crafted features,clean,0.9944
+All hand-crafted features,20 dB,0.9958
+All hand-crafted features,10 dB,0.9930
+All hand-crafted features,5 dB,0.9888
+All hand-crafted features,0 dB,0.5342
+All hand-crafted features,-5 dB,0.2753
+Envelope order spectrum + logistic regression,clean,0.9209
+Envelope order spectrum + logistic regression,20 dB,0.9181
+Envelope order spectrum + logistic regression,10 dB,0.9195
+Envelope order spectrum + logistic regression,5 dB,0.9167
+Envelope order spectrum + logistic regression,0 dB,0.8729
+Envelope order spectrum + logistic regression,-5 dB,0.6273

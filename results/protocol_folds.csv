@@ -1,0 +1,33 @@
+protocol,model,balanced_accuracy
+Random segment split,Time-domain statistics,0.9736
+Random segment split,Envelope fault frequencies (physics),0.7918
+Random segment split,All hand-crafted features,1.0000
+Random segment split,Envelope order spectrum + logistic regression,0.9384
+Leave one load out,Time-domain statistics,0.9703
+Leave one load out,Envelope fault frequencies (physics),0.7950
+Leave one load out,All hand-crafted features,1.0000
+Leave one load out,Envelope order spectrum + logistic regression,0.9054
+Leave one load out,Time-domain statistics,0.9929
+Leave one load out,Envelope fault frequencies (physics),0.8249
+Leave one load out,All hand-crafted features,1.0000
+Leave one load out,Envelope order spectrum + logistic regression,0.9096
+Leave one load out,Time-domain statistics,0.9873
+Leave one load out,Envelope fault frequencies (physics),0.8376
+Leave one load out,All hand-crafted features,1.0000
+Leave one load out,Envelope order spectrum + logistic regression,0.9421
+Leave one load out,Time-domain statistics,0.9507
+Leave one load out,Envelope fault frequencies (physics),0.7684
+Leave one load out,All hand-crafted features,0.9944
+Leave one load out,Envelope order spectrum + logistic regression,0.9209
+Unseen fault size,Time-domain statistics,0.5000
+Unseen fault size,Envelope fault frequencies (physics),0.5052
+Unseen fault size,All hand-crafted features,0.9757
+Unseen fault size,Envelope order spectrum + logistic regression,0.7240
+Unseen fault size,Time-domain statistics,0.4958
+Unseen fault size,Envelope fault frequencies (physics),0.3909
+Unseen fault size,All hand-crafted features,0.4968
+Unseen fault size,Envelope order spectrum + logistic regression,0.5657
+Unseen fault size,Time-domain statistics,0.6504
+Unseen fault size,Envelope fault frequencies (physics),0.4862
+Unseen fault size,All hand-crafted features,0.4650
+Unseen fault size,Envelope order spectrum + logistic regression,0.6356
